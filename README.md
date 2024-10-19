@@ -8,6 +8,8 @@
 
 <h1 align="center">Redefining state-of-the-art graphics editing</h1>
 
+# This is a fork
+
 **Graphite** is an in-development raster and vector graphics package that's free and open source. It is powered by a node graph compositing engine that fuses layers with nodes, providing a fully nondestructive editing experience.
 
 Presently, Graphite is a lightweight vector graphics editor that runs in your browser. Its node-based compositor lets you apply image effects and co-create art with generative AI.
